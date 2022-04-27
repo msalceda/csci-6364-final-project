@@ -5,7 +5,7 @@ This repository has the code, paper, and PPT for my CSCI 6364 final project on c
 None needed.
 
 ## Usage
-All code is located in the IPYNB named `20220428_CSCI_6364_Final_Project.ipynb`. The code was run in a Google Colab GPU environment.
+All code is located in the Jupyter Notebook file named `20220428_CSCI_6364_Final_Project.ipynb`. The code was run in a Google Colab GPU environment.
 
 ## Authors and Acknowledgements
 Michael Salceda
